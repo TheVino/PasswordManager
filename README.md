@@ -1,13 +1,13 @@
+
 # Password Manager 🔐
 
 Hi! This program can generate passwords, storage, manage and view them. All passwords are encrypted to inncrease the protection, and are only decrypted when you pass the main password check.
-
-
 
 # What libs do I need? 
 ```
  pip install PySimpleGUI
  pip install cryptography
+ pip install pillow
  ```
 
 
@@ -17,6 +17,7 @@ Hi! This program can generate passwords, storage, manage and view them. All pass
 - View Passwords
 - Generate Password (with # characters   selection)
 - Save Password and Login
+- Master Password to Start the program
 
 
 ### Hard coded - where you need to inform the path
@@ -66,3 +67,4 @@ Future Features:
 - MFA to increase security on login
 - Better UI *(Not that easy to build good UI with PySimpleGUI)*
 - View saved passwords on GUI ~~not terminal~~
+- Add an edit/ modify login and a delete one, with security password to delete
