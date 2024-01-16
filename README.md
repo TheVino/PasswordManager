@@ -68,3 +68,4 @@ Future Features:
 - Better UI *(Not that easy to build good UI with PySimpleGUI)*
 - View saved passwords on GUI ~~not terminal~~
 - Add an edit/ modify login and a delete one, with security password to delete
+- Add Update OTA (Over-the-air) to keeps the app updated
