@@ -4,11 +4,14 @@
 Hi! This program can generate passwords, storage, manage and view them. All passwords are encrypted to increase the protection, and are only decrypted when you pass the main password check.
 
 # What libs do I need? 
+<!---
 ```
  pip install PySimpleGUI
  pip install cryptography
  pip install pillow
  ```
+--->
+<img src="https://imgur.com/X8PcHs5.png" alt="drawing" width="400"/>
 
 
 ## Main code has these main functions
@@ -20,22 +23,15 @@ Hi! This program can generate passwords, storage, manage and view them. All pass
 - Master Password to Start the program
 
 
-### Hard coded - where you need to inform the path
-So just replace these directories with the one you will be using to Convert/ OCR.
-```
-path 	= "C:\\Users\\vini_\\Desktop\\Script\\OCR\\img\\"
-pdfpath = "C:\\Users\\vini_\\Desktop\\Script\\OCR\\pdf\\"
-```
-
-
-> **Tip:** It is better to have **2** separate **folders**, one for images and one for PDF.
-
 
 ## Testing the program! 👨‍💻
+<!---
 ```
 def  check_main_password(master_password): # actually main password is 'senha'
 ```
-**Returns**: 
+--->
+![](https://imgur.com/CPASsyP.png)
+**Returns**: <br>
 ![](https://i.imgur.com/y2FGR1g.png)
 -------------
 Once you pass the Main Password verification, we are in the main screen:
@@ -43,12 +39,12 @@ Once you pass the Main Password verification, we are in the main screen:
 ```
 View Passwords
 ```
-**Returns**:
+**Returns**: <br>
 ![enter image description here](https://i.imgur.com/B5r70DP.png)
 ```
 Generate Password
 ```
-**Returns**:
+**Returns**: <br>
 ![](https://i.imgur.com/9VqWtkJ.png)
 ```
 Use it
