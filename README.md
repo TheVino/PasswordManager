@@ -1,7 +1,7 @@
 
 # Password Manager 🔐
 
-Hi! This program can generate passwords, storage, manage and view them. All passwords are encrypted to inncrease the protection, and are only decrypted when you pass the main password check.
+Hi! This program can generate passwords, storage, manage and view them. All passwords are encrypted to increase the protection, and are only decrypted when you pass the main password check.
 
 # What libs do I need? 
 ```
