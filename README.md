@@ -11,7 +11,7 @@ Hi! This program can generate passwords, storage, manage and view them. All pass
  pip install pillow
  ```
 --->
-<img src="https://imgur.com/X8PcHs5.png" alt="drawing" width="400"/>
+<img src="https://imgur.com/D16eSKI.png" alt="drawing" width="400"/>
 
 
 ## Main code has these main functions
